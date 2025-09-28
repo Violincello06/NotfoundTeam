@@ -1,0 +1,17 @@
+{
+  "name": "landing-pages-project",
+  "version": "1.0.0",
+  "description": "A project to develop landing pages.",
+  "main": "src/index.html",
+  "scripts": {
+    "start": "live-server src",
+    "build": "echo 'Build step not defined'",
+    "test": "echo 'No tests defined'"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
